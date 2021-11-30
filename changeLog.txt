@@ -1,0 +1,31 @@
+Preetam
+--------
+Completed the backend part.
+Initialization of the project.
+
+Time line Completed : 38 : 50
+
+Modules installed : 
+-------------------
+1*.npm init  -y
+2.change name from index.js to server.js
+3.mkdir frontend backend
+4.install git bash, monog db compass, register in mongo db atlas, create database as shop
+			
+5*. npm i express mongoose dotenv
+6*.npm i --save-dev nodemon concurrently
+7.npx create-react-app .
+8.mkdir config controller data models routes
+9.configure the MONGO_URI in the setup.env
+
+/******* SASANK ******/
+
+Time line Completed : 1:11:28
+
+
+Modules installed : 
+-------------------
+1.npm i axios react-router-dom redux react-redux redux-thunk redux-devtools-extension
+
+
+
